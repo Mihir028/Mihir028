@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihir028" alt="mihir028" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/s0ni_mihir" target="blank"><img src="https://img.shields.io/twitter/follow/s0ni_mihir?logo=twitter&style=for-the-badge" alt="s0ni_mihir" /></a> </p>
-
 - 💬 **Web Development**
 
 - 📫 **mihirs028@gmail.com**
